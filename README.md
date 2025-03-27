@@ -6,13 +6,6 @@ A Python script that replaces old citation keys in LaTeX files (`\cite{...}`) us
 
 When you're converting an Overleaf LaTeX project that uses manually typed or numeric citation keys into one managed by **Zotero** (or any other reference manager), you often want to replace all the citation keys with consistent, human-readable ones. This tool helps you do that — automatically and reliably.
 
-## 💡 Features
-
-- Matches citations by **DOI** (even if only found in the `url` field)
-- Matches citations by **normalized title** (handles casing, spacing, and braces)
-- Supports citation prefixes like `doi:...`
-- Supports `\cite{A, B, C}` with flexible spacing
-- Outputs a clean `.tex` file with updated citation keys
 
 ## 📂 File Naming Convention
 
