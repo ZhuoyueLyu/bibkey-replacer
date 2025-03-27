@@ -4,7 +4,7 @@ A Python script that replaces old citation keys in LaTeX files (`\cite{...}`) us
 
 ## ✨ Use Case
 
-When you're converting an Overleaf LaTeX project that uses manually typed or numeric citation keys into one managed by **Zotero** (or any other reference manager), you often want to replace all the citation keys with consistent, human-readable ones. This tool helps you do that — automatically and reliably.
+When you're converting an Overleaf LaTeX project that uses manually typed or numeric citation keys into one managed by **Zotero** (or other reference manager), you often want to replace all the citation keys with Zotero's default, **human-readable** keys (e.g., `smith_article_2020`). This tool helps you do that.
 
 
 ## 📂 File Naming Convention
